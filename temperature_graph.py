@@ -1,3 +1,5 @@
+# needs w1thermsensor [sudo apt install python3-w1thermsensor]
+
 import matplotlib.pyplot as plt
 import numpy as np
 from time import sleep
